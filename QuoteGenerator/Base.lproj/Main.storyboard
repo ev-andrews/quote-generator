@@ -35,6 +35,9 @@
                                 <state key="normal" title="New Quote">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <action selector="createNewQuote:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Wug-EH-QiB"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
@@ -53,6 +56,9 @@
                             <constraint firstItem="3rn-Il-wxv" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="122" id="iTa-La-2j4"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="quoteLabel" destination="3rn-Il-wxv" id="nap-QT-HM2"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
