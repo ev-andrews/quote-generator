@@ -12,6 +12,16 @@
 		0FA4D0A11CBE3BB4009FE065 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FA4D09F1CBE3BB4009FE065 /* Main.storyboard */; };
 		0FA4D0A31CBE3BB4009FE065 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0FA4D0A21CBE3BB4009FE065 /* Assets.xcassets */; };
 		0FA4D0A61CBE3BB4009FE065 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FA4D0A41CBE3BB4009FE065 /* LaunchScreen.storyboard */; };
+		0FA4D0B81CBF5F55009FE065 /* image1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0FA4D0AE1CBF5F55009FE065 /* image1.jpg */; };
+		0FA4D0B91CBF5F55009FE065 /* image10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0FA4D0AF1CBF5F55009FE065 /* image10.jpg */; };
+		0FA4D0BA1CBF5F55009FE065 /* image2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0FA4D0B01CBF5F55009FE065 /* image2.jpg */; };
+		0FA4D0BB1CBF5F55009FE065 /* image3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0FA4D0B11CBF5F55009FE065 /* image3.jpg */; };
+		0FA4D0BC1CBF5F55009FE065 /* image4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0FA4D0B21CBF5F55009FE065 /* image4.jpg */; };
+		0FA4D0BD1CBF5F55009FE065 /* image5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0FA4D0B31CBF5F55009FE065 /* image5.jpg */; };
+		0FA4D0BE1CBF5F55009FE065 /* image6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0FA4D0B41CBF5F55009FE065 /* image6.jpg */; };
+		0FA4D0BF1CBF5F55009FE065 /* image7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0FA4D0B51CBF5F55009FE065 /* image7.jpg */; };
+		0FA4D0C01CBF5F55009FE065 /* image8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0FA4D0B61CBF5F55009FE065 /* image8.jpg */; };
+		0FA4D0C11CBF5F55009FE065 /* image9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0FA4D0B71CBF5F55009FE065 /* image9.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +32,16 @@
 		0FA4D0A21CBE3BB4009FE065 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0FA4D0A51CBE3BB4009FE065 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0FA4D0A71CBE3BB4009FE065 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0FA4D0AE1CBF5F55009FE065 /* image1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image1.jpg; sourceTree = "<group>"; };
+		0FA4D0AF1CBF5F55009FE065 /* image10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image10.jpg; sourceTree = "<group>"; };
+		0FA4D0B01CBF5F55009FE065 /* image2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image2.jpg; sourceTree = "<group>"; };
+		0FA4D0B11CBF5F55009FE065 /* image3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image3.jpg; sourceTree = "<group>"; };
+		0FA4D0B21CBF5F55009FE065 /* image4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image4.jpg; sourceTree = "<group>"; };
+		0FA4D0B31CBF5F55009FE065 /* image5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image5.jpg; sourceTree = "<group>"; };
+		0FA4D0B41CBF5F55009FE065 /* image6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image6.jpg; sourceTree = "<group>"; };
+		0FA4D0B51CBF5F55009FE065 /* image7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image7.jpg; sourceTree = "<group>"; };
+		0FA4D0B61CBF5F55009FE065 /* image8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image8.jpg; sourceTree = "<group>"; };
+		0FA4D0B71CBF5F55009FE065 /* image9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image9.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +74,7 @@
 		0FA4D09A1CBE3BB4009FE065 /* QuoteGenerator */ = {
 			isa = PBXGroup;
 			children = (
+				0FA4D0AD1CBF5F55009FE065 /* images */,
 				0FA4D09B1CBE3BB4009FE065 /* AppDelegate.swift */,
 				0FA4D09D1CBE3BB4009FE065 /* ViewController.swift */,
 				0FA4D09F1CBE3BB4009FE065 /* Main.storyboard */,
@@ -62,6 +83,23 @@
 				0FA4D0A71CBE3BB4009FE065 /* Info.plist */,
 			);
 			path = QuoteGenerator;
+			sourceTree = "<group>";
+		};
+		0FA4D0AD1CBF5F55009FE065 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				0FA4D0AE1CBF5F55009FE065 /* image1.jpg */,
+				0FA4D0AF1CBF5F55009FE065 /* image10.jpg */,
+				0FA4D0B01CBF5F55009FE065 /* image2.jpg */,
+				0FA4D0B11CBF5F55009FE065 /* image3.jpg */,
+				0FA4D0B21CBF5F55009FE065 /* image4.jpg */,
+				0FA4D0B31CBF5F55009FE065 /* image5.jpg */,
+				0FA4D0B41CBF5F55009FE065 /* image6.jpg */,
+				0FA4D0B51CBF5F55009FE065 /* image7.jpg */,
+				0FA4D0B61CBF5F55009FE065 /* image8.jpg */,
+				0FA4D0B71CBF5F55009FE065 /* image9.jpg */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,8 +161,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0FA4D0BC1CBF5F55009FE065 /* image4.jpg in Resources */,
+				0FA4D0BD1CBF5F55009FE065 /* image5.jpg in Resources */,
 				0FA4D0A61CBE3BB4009FE065 /* LaunchScreen.storyboard in Resources */,
+				0FA4D0C11CBF5F55009FE065 /* image9.jpg in Resources */,
+				0FA4D0B81CBF5F55009FE065 /* image1.jpg in Resources */,
+				0FA4D0C01CBF5F55009FE065 /* image8.jpg in Resources */,
 				0FA4D0A31CBE3BB4009FE065 /* Assets.xcassets in Resources */,
+				0FA4D0B91CBF5F55009FE065 /* image10.jpg in Resources */,
+				0FA4D0BE1CBF5F55009FE065 /* image6.jpg in Resources */,
+				0FA4D0BA1CBF5F55009FE065 /* image2.jpg in Resources */,
+				0FA4D0BF1CBF5F55009FE065 /* image7.jpg in Resources */,
+				0FA4D0BB1CBF5F55009FE065 /* image3.jpg in Resources */,
 				0FA4D0A11CBE3BB4009FE065 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -285,6 +333,7 @@
 				0FA4D0AC1CBE3BB4009FE065 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
