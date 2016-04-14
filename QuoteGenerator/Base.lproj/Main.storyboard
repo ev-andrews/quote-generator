@@ -57,6 +57,8 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="backgroundImage" destination="FPa-Ov-tYT" id="Uli-QF-WOc"/>
+                        <outlet property="quoteGeneratorButton" destination="2dC-oF-FQo" id="wq9-t8-mT0"/>
                         <outlet property="quoteLabel" destination="3rn-Il-wxv" id="nap-QT-HM2"/>
                     </connections>
                 </viewController>
